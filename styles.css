@@ -9,6 +9,9 @@ html{
 a{
 	text-decoration:none;
 }
+.media-icons a{
+	text-decoration:none;
+}
 .bottom-details{
 	background-color:gray;
 	display:flex;
